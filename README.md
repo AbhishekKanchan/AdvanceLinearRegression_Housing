@@ -9,11 +9,11 @@ Which variables are significant in predicting the price of a house, and
 How well those variables describe the price of a house.
 
 ```lasso  Regression with  0.001
-
-R2 Score for Train :  0.9067700196101982
-R2 Score for Test :  0.8795525366038728
-RMSE for Train :  0.12058278641557757
-RMSE for Test :  0.1419645887272507```
+> R2 and RMSE Scores are
+- R2 Score for Train :  0.9067700196101982
+- R2 Score for Test :  0.8795525366038728
+- RMSE for Train :  0.12058278641557757
+- RMSE for Test :  0.1419645887272507```
 
 The Top 10 predcitors are:
 
